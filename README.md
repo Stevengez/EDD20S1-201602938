@@ -6,3 +6,9 @@ Tarea 1:
 	
 			Lenguaje: C++
 			Fecha de entrega: 28/01/2020
+
+Tarea 2:
+	Programa que crea una moneda virtual y permite agregar usuarios que manipulan las monedas.
+			
+			Lenguaje: C++
+			Fecha de entrega: 01/02/2020
